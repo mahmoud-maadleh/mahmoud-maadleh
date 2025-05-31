@@ -15,8 +15,8 @@ Manage reservations and history
 
 Clone the repository:
 ```bash
-(https://github.com/mahmoud-maadleh/EV-Charge.git)
 
+https://github.com/mahmoud-maadleh/EV-Charge
 <!---
 mahmoud-maadleh/mahmoud-maadleh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
